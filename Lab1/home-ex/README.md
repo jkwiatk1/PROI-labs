@@ -1,4 +1,4 @@
-#Lab1
+# Lab1
 
 Kamera w rozproszonym systemie wizyjnym charakteryzuje się: 
 * nazwą,  
