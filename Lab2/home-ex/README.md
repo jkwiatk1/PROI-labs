@@ -1,4 +1,4 @@
-# Lab2 - home exercise
+# Lab2 - Zadanie do wykonania w domu
 
 Proszę zaimplementować klasę, reprezentującą ofertę pakietu telewizyjnego udostępnianą klientowi operatora telekomunikacyjnego. Pakiet charakteryzuje się nazwą, okresem dostępności (daty początku i końca dostępności danej oferty), ceną oraz zestawem kanałów dostępnych w ramach danego pakietu. Na potrzeby tego zadania kanały telewizyjne mogą być reprezentowane za pomocą nazw.
 
